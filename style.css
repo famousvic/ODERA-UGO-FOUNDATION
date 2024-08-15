@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap");
+
+* {
+  padding: 0px;
+  margin: 0px;
+  scroll-behavior: smooth;
+}
+.header, .nav{
+  width: 100px;
+  text-align: center;
+}
+.odera{
+  font-size: 30px;
+  font-weight: 700;
+  font-family: "Playfair Display", serif;
+  font-style: italic;
+  text-align: center;
+  text-decoration: underline double;
+}
+button {
+  cursor: pointer;
+}
+#home{
+background-color: aquamarine;
+}
